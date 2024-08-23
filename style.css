@@ -58,7 +58,16 @@
 .first-division{
     margin-left: 40px;
     width: 30%;
-    padding-top: 130px;
+    padding-top: 50px;
+}
+.power{
+    height: 60px;
+    width: 60px;
+    margin-left: 100px;
+    margin-bottom: 40px;
+    background-image: url(power.png);
+    background-size: cover;
+    background-position: center;
 }
 #heading1{
     text-transform: capitalize;
@@ -82,7 +91,16 @@
 .second-division{
     margin-left: 20px;
     width: 30%;
-    padding-top: 130px;
+    padding-top: 50px;
+}
+.power1{
+    height: 60px;
+    width: 60px;
+    margin-left: 100px;
+    margin-bottom: 40px;
+    background-image: url(power\ \(1\).png);
+    background-size: cover;
+    background-position: center;
 }
 .third-division{
     margin-left: 30px;
